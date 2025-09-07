@@ -31,12 +31,7 @@ Proyek ini bertujuan untuk **mengklasifikasikan** keluhan berdasarkan jenis prod
    - Model baseline: Logistic Regression / Random Forest.  
    - Model LLM: IBM Granite untuk zero/few-shot classification.
 
-3. **Summarization**  
-   - Input: `Consumer complaint narrative` per produk/perusahaan.  
-   - Output: ringkasan keluhan dominan (3–5 kalimat).  
-   - IBM Granite digunakan untuk abstractive summarization.
-
-4. **Visualization**  
+3. **Visualization**  
    - Tren keluhan per tahun.  
    - Distribusi produk dengan keluhan terbanyak.  
    - Word cloud kata kunci per kategori.
