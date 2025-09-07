@@ -52,10 +52,4 @@ Proyek ini bertujuan untuk **mengklasifikasikan** keluhan berdasarkan jenis prod
   - *Summarization*: menghasilkan ringkasan naratif dari kumpulan keluhan.  
 - AI mempercepat analisis dengan mengolah ribuan keluhan menjadi insight yang lebih mudah dipahami.
 
-## 📎 Repository Content
-- `notebook.ipynb` → Google Colab Notebook untuk preprocessing, classification, dan visualisasi.  
-- `data/` → folder dataset (raw & processed).  
-- `README.md` → dokumentasi proyek.  
-- `presentation.pdf` → slide presentasi.  
-
 ---
